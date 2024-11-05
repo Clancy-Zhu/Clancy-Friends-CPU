@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"*.vue": "vue",
+		"*.vhd": "vhdl",
+		"*.S": "mips",
+		"*.s": "riscv",
+		"typeinfo": "c",
+		"*.tcc": "cpp"
+	}
+}
